@@ -1,7 +1,7 @@
 # Stock_Market_and_Cryptocurrency_Forecasting
 Time series forecasting occurs when you make scientific predictions based on historical time stamped data. It involves building models through historical analysis and using them to make observations and drive future strategic decision-making.
 
-This program returns the returns on investment on any stock and crypto currency within any given start and end date
+This is a function that forecast and returns the returns on investment on any stock and crypto currency within any given start and end date
 
 
 ## Returns on Investment
